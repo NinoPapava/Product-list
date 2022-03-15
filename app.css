@@ -1,0 +1,35 @@
+
+p {
+  cursor:pointer;
+  position: absolute;
+  display: inline-block;
+  cursor: pointer;
+  color: rgb(238, 230, 230);
+background-color: #911818;
+border: none;
+border-radius: 15px;
+box-shadow: 0 9px grey;
+}
+p:hover {background-color: rgb(8, 131, 39)}
+p:active {
+background-color: rgb(26, 155, 58);
+box-shadow: 0 5px rgb(16, 126, 71);
+transform: translateY(4px);
+}
+h3 {
+  cursor:pointer;
+    position: absolute;
+    display: inline-block;
+    cursor: pointer;
+    color: rgb(238, 230, 230);
+  background-color: #911818;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px grey;
+}
+h3:hover {background-color: rgb(161, 8, 8)}
+h3:active {
+background-color: rgb(145, 12, 12);
+box-shadow: 0 5px rgb(167, 11, 11);
+transform: translateY(4px);
+}
